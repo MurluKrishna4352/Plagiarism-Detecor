@@ -1,2 +1,1 @@
 # Plagiarism-Detecor
-j
